@@ -43,8 +43,9 @@ const DisclaimerOverlay = () => {
         <p>
           This chat does not save your data. If you close or reload, your conversation will reset.
         </p>
-         <p> You can ask questions like "What does Siko help with", "How can I buy Siko", "I want to buy in bulk". "How much do 4 Siko 100ml cost"</p>
         <p> You can type in English, Hindi, or Urdu or Hindi in english Characters like "Mujhe Siko khareedna hai"</p>
+         <p> You can ask questions like "Which medicine can help with stomach related problems" , "What does Siko help with", "How can I buy Siko", "I want to buy in bulk". "How much do 4 Siko 100ml cost"</p>
+        
         <p>
           This is an AI-powered tool that can help customers know our products better, ask questions about our products and where they can buy or make wholesale enquiries.
         </p>
